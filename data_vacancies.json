@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Python Django Разработчик",
+    "url": "https://hh.ru/vacancy/84561139",
+    "salary": {
+      "from": 100000,
+      "to": 300000,
+      "currency": "KZT",
+      "gross": false
+    },
+    "description": "Description not found"
+  },
+  {
+    "title": "Frontend developer (React)",
+    "url": "https://hh.ru/vacancy/84681756",
+    "salary": {
+      "from": 80000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Description not found"
+  },
+  {
+    "title": "Junior Python-разработчик",
+    "url": "https://hh.ru/vacancy/84558768",
+    "salary": {
+      "from": 110000,
+      "to": 140000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Description not found"
+  },
+  {
+    "title": "Разработчик Python (junior)",
+    "url": "https://hh.ru/vacancy/84630964",
+    "salary": {
+      "from": null,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Description not found"
+  },
+  {
+    "title": "Стажер в IT компанию",
+    "url": "https://hh.ru/vacancy/83409649",
+    "salary": {
+      "from": 40000,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Description not found"
+  },
+  {
+    "title": "Python разработчик junior",
+    "url": "https://hh.ru/vacancy/83813635",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Description not found"
+  },
+  {
+    "title": "Стажёр-аналитик / ML",
+    "url": "https://hh.ru/vacancy/84733274",
+    "salary": {
+      "from": 10000,
+      "to": 30000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Description not found"
+  },
+  {
+    "title": "Стажер/Программист",
+    "url": "https://hh.ru/vacancy/84695887",
+    "salary": {
+      "from": 15000,
+      "to": 20000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Description not found"
+  },
+  {
+    "title": "Backend developer",
+    "url": "https://hh.ru/vacancy/84709408",
+    "salary": {
+      "from": 300000,
+      "to": null,
+      "currency": "KZT",
+      "gross": false
+    },
+    "description": "Description not found"
+  },
+  {
+    "title": "Стажер-программист в отдел технической поддержки",
+    "url": "https://hh.ru/vacancy/84732370",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "KZT",
+      "gross": false
+    },
+    "description": "Description not found"
+  },
+  {
+    "title": "Junior программист/разработчик Frontend backend/Junior разработчик",
+    "url": "https://hh.ru/vacancy/83664059",
+    "salary": {
+      "from": 65000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Description not found"
+  },
+  {
+    "title": "Стажер-аналитик",
+    "url": "https://hh.ru/vacancy/84468495",
+    "salary": null,
+    "description": "Description not found"
+  },
+  {
+    "title": "Junior Analyst (Supply Team)",
+    "url": "https://hh.ru/vacancy/84761227",
+    "salary": null,
+    "description": "Description not found"
+  },
+  {
+    "title": "Python разработчик",
+    "url": "https://hh.ru/vacancy/84734134",
+    "salary": null,
+    "description": "Description not found"
+  },
+  {
+    "title": "Junior Data Scientist (NLP)",
+    "url": "https://hh.ru/vacancy/84026782",
+    "salary": null,
+    "description": "Description not found"
+  },
+  {
+    "title": "Data Analyst",
+    "url": "https://hh.ru/vacancy/84754446",
+    "salary": null,
+    "description": "Description not found"
+  },
+  {
+    "title": "QA-инженер по ручному тестированию",
+    "url": "https://hh.ru/vacancy/84745714",
+    "salary": null,
+    "description": "Description not found"
+  },
+  {
+    "title": "Начинающий программист (стажер) разработчик Python - парсинг сайтов",
+    "url": "https://hh.ru/vacancy/84519177",
+    "salary": null,
+    "description": "Description not found"
+  },
+  {
+    "title": "Frontend-разработчик (Junior+)",
+    "url": "https://hh.ru/vacancy/84742357",
+    "salary": null,
+    "description": "Description not found"
+  },
+  {
+    "title": "Стажер-разработчик Python",
+    "url": "https://hh.ru/vacancy/84724735",
+    "salary": null,
+    "description": "Description not found"
+  }
+]
